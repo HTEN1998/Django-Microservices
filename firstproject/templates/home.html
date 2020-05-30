@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<H1>Student Database</H1>
+
+<form name="f1" action="home" method="POST">
+    {% csrf_token %}
+    Enter name:<input type="text" name="name"><br>
+    Enter Age:<input type="text" name="age"><br>
+    Enter Branch:<input type="text" name="branch"><br>
+    Operation = <input type="text" name="opr"><br>
+    <input type="submit" value="Add Data">
+</form>
+
+{% endblock %}

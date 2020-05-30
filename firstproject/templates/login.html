@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>Hello user</h1>
+<form name="f3" action="login" method="POST">
+    {% csrf_token %}
+    Enter username= <input type="text" name="uname"><br>
+    Enter password= <input type="password" name="password"><br>
+    <input type="submit" value="login">
+</form>
+
+<div>
+    {%for i in messages%}
+    <h3>{{i}}</h3>
+    {% endfor %}
+</div>
+{% endblock %}
