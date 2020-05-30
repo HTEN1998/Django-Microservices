@@ -1,0 +1,1499 @@
+2020-04-29 13:04:32,932 New user Registerd mandar
+2020-04-29 13:04:48,245 basic details entered by user:mandar
+2020-04-29 13:04:59,425 User logged in= mandar
+2020-04-29 13:07:02,548 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-04-29 13:07:02,550 Using selector: SelectSelector
+2020-04-29 13:07:12,963 User logged in= mandar
+2020-04-29 13:14:46,932 Data insert to DB
+2020-04-29 13:15:15,554 Data updated to DB
+2020-04-29 13:15:29,578 Data deleted from DB
+2020-04-29 14:05:45,989 Not Found: /favicon.ico
+2020-04-29 14:06:00,850 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-04-29 14:06:00,884 Using selector: SelectSelector
+2020-04-29 14:06:17,132 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-04-29 14:06:17,135 Using selector: SelectSelector
+2020-04-29 14:06:23,776 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-04-29 14:06:23,785 Using selector: SelectSelector
+2020-04-29 14:06:36,694 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-04-29 14:06:36,700 Using selector: SelectSelector
+2020-04-29 14:06:43,231 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-04-29 14:06:43,242 Using selector: SelectSelector
+2020-04-29 14:06:59,158 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-04-29 14:06:59,161 Using selector: SelectSelector
+2020-04-29 14:07:07,728 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-04-29 14:07:07,730 Using selector: SelectSelector
+2020-04-29 14:07:25,559 Request send to Signup page
+2020-04-29 14:07:44,388 New user Registerd vino
+2020-04-29 14:11:00,714 Account already Exits
+2020-04-29 14:11:00,946 Login page called
+2020-04-29 14:11:34,213 Request send to Signup page
+2020-04-29 14:12:33,760 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-04-29 14:12:33,784 Using selector: SelectSelector
+2020-04-29 14:13:08,421 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-04-29 14:13:08,424 Using selector: SelectSelector
+2020-04-29 14:13:25,170 Request send to Signup page
+2020-04-29 14:13:38,650 New user Registerd: warner
+2020-04-29 14:13:54,441 basic details entered by user: warner
+2020-04-29 14:14:07,890 User logged in= warner
+2020-04-29 14:15:37,531 Request send to CRUD page
+2020-04-29 14:16:09,503 Data insert to DB
+2020-04-29 14:16:39,730 Data updated to DB
+2020-04-29 14:16:51,889 Data deleted from DB
+2020-04-29 14:18:29,984 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-04-29 14:18:29,986 Using selector: SelectSelector
+2020-04-29 14:18:37,897 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-04-29 14:18:37,900 Using selector: SelectSelector
+2020-04-29 14:18:45,036 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-04-29 14:18:45,047 Using selector: SelectSelector
+2020-04-29 14:19:01,362 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-04-29 14:19:01,365 Using selector: SelectSelector
+2020-04-29 14:19:13,172 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-04-29 14:19:13,175 Using selector: SelectSelector
+2020-04-29 14:19:20,676 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-04-29 14:19:20,678 Using selector: SelectSelector
+2020-04-29 14:19:37,367 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-04-29 14:19:37,369 Using selector: SelectSelector
+2020-04-29 14:19:43,967 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-04-29 14:19:43,970 Using selector: SelectSelector
+2020-04-29 14:20:00,627 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-04-29 14:20:00,646 Using selector: SelectSelector
+2020-04-29 14:20:28,013 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-04-29 14:20:28,017 Using selector: SelectSelector
+2020-04-29 14:20:40,572 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-04-29 14:20:40,576 Using selector: SelectSelector
+2020-04-29 14:22:51,457 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-04-29 14:22:51,515 Using selector: SelectSelector
+2020-04-29 14:23:19,030 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-04-29 14:23:19,040 Using selector: SelectSelector
+2020-04-29 14:24:02,184 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-04-29 14:24:02,195 Using selector: SelectSelector
+2020-04-29 14:24:27,774 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-04-29 14:24:27,777 Using selector: SelectSelector
+2020-04-29 14:24:45,183 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-04-29 14:24:45,197 Using selector: SelectSelector
+2020-04-29 14:24:51,868 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-04-29 14:24:51,871 Using selector: SelectSelector
+2020-04-29 14:25:02,850 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-04-29 14:25:02,852 Using selector: SelectSelector
+2020-04-29 14:25:11,608 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-04-29 14:25:11,611 Using selector: SelectSelector
+2020-04-29 14:26:41,423 Not Found: /home
+2020-04-29 14:27:24,586 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-04-29 14:27:24,588 Using selector: SelectSelector
+2020-04-29 14:27:45,666 Not Found: /home
+2020-04-29 14:28:15,790 C:\Users\DELL\djangoprojects\firstproject\formdata\urls.py changed, reloading.
+2020-04-29 14:28:15,792 Using selector: SelectSelector
+2020-04-29 14:28:29,152 Not Found: /
+2020-04-29 14:29:03,181 Data insert to DB
+2020-04-29 14:29:18,282 C:\Users\DELL\djangoprojects\firstproject\formdata\urls.py changed, reloading.
+2020-04-29 14:29:18,284 Using selector: SelectSelector
+2020-04-29 14:29:56,089 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-04-29 14:29:56,092 Using selector: SelectSelector
+2020-04-29 14:30:03,212 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-04-29 14:30:03,223 Using selector: SelectSelector
+2020-04-29 14:30:10,087 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-04-29 14:30:10,097 Using selector: SelectSelector
+2020-04-29 14:31:07,941 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-04-29 14:31:07,944 Using selector: SelectSelector
+2020-04-29 14:31:14,788 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-04-29 14:31:14,798 Using selector: SelectSelector
+2020-04-29 14:31:42,040 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-04-29 14:31:42,043 Using selector: SelectSelector
+2020-04-29 14:31:57,354 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-04-29 14:31:57,358 Using selector: SelectSelector
+2020-04-29 14:36:58,624 New user Registerd vikram
+2020-04-29 14:37:27,262 basic details entered by user:vikram
+2020-04-29 14:38:06,005 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-04-29 14:38:06,011 Using selector: SelectSelector
+2020-04-29 14:38:51,481 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-04-29 14:38:51,483 Using selector: SelectSelector
+2020-04-29 14:39:12,066 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-04-29 14:39:12,067 Using selector: SelectSelector
+2020-04-29 14:39:20,686 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-04-29 14:39:20,689 Using selector: SelectSelector
+2020-04-29 14:39:53,715 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-04-29 14:39:53,718 Using selector: SelectSelector
+2020-04-29 14:40:05,056 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-04-29 14:40:05,058 Using selector: SelectSelector
+2020-04-29 14:40:11,664 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-04-29 14:40:11,667 Using selector: SelectSelector
+2020-04-29 14:40:18,338 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-04-29 14:40:18,341 Using selector: SelectSelector
+2020-04-29 14:40:26,682 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-04-29 14:40:26,684 Using selector: SelectSelector
+2020-04-29 14:41:54,710 Using selector: SelectSelector
+2020-04-29 14:43:22,535 C:\Users\DELL\djangoprojects\firstproject\formdata\urls.py changed, reloading.
+2020-04-29 14:43:22,539 Using selector: SelectSelector
+2020-04-29 14:43:57,901 Using selector: SelectSelector
+2020-04-29 14:45:54,706 C:\Users\DELL\djangoprojects\firstproject\formdata\urls.py changed, reloading.
+2020-04-29 14:45:54,708 Using selector: SelectSelector
+2020-04-29 14:46:04,971 C:\Users\DELL\djangoprojects\firstproject\formdata\urls.py changed, reloading.
+2020-04-29 14:46:04,974 Using selector: SelectSelector
+2020-04-29 14:46:24,265 C:\Users\DELL\djangoprojects\firstproject\formdata\urls.py changed, reloading.
+2020-04-29 14:46:24,268 Using selector: SelectSelector
+2020-04-29 14:46:36,680 C:\Users\DELL\djangoprojects\firstproject\formdata\urls.py changed, reloading.
+2020-04-29 14:46:36,683 Using selector: SelectSelector
+2020-04-29 14:46:46,716 base details page called
+2020-04-29 14:46:59,177 C:\Users\DELL\djangoprojects\firstproject\formdata\urls.py changed, reloading.
+2020-04-29 14:46:59,213 Using selector: SelectSelector
+2020-04-29 14:47:20,015 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-04-29 14:47:20,018 Using selector: SelectSelector
+2020-04-29 14:47:49,308 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-04-29 14:47:49,311 Using selector: SelectSelector
+2020-04-29 14:48:26,012 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-04-29 14:48:26,016 Using selector: SelectSelector
+2020-04-29 14:48:38,741 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-04-29 14:48:38,744 Using selector: SelectSelector
+2020-04-29 14:48:47,479 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-04-29 14:48:47,483 Using selector: SelectSelector
+2020-04-29 14:49:55,319 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-04-29 14:49:55,321 Using selector: SelectSelector
+2020-04-29 14:50:41,568 User Account not Exits
+2020-04-29 14:50:55,971 User logged in= harish
+2020-04-29 14:51:24,099 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-04-29 14:51:24,101 Using selector: SelectSelector
+2020-04-29 14:52:05,754 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-04-29 14:52:05,757 Using selector: SelectSelector
+2020-04-29 14:52:24,422 Using selector: SelectSelector
+2020-04-29 14:58:13,707 base details page called
+2020-04-29 15:06:37,005 Using selector: SelectSelector
+2020-04-30 15:08:37,401 C:\Users\DELL\djangoprojects\firstproject\formdata\models.py changed, reloading.
+2020-04-30 15:08:37,463 Using selector: SelectSelector
+2020-04-30 15:10:59,876 Using selector: SelectSelector
+2020-05-04 14:57:42,831 Not Found: /favicon.ico
+2020-05-04 15:56:27,651 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 15:56:27,673 Using selector: SelectSelector
+2020-05-04 15:57:52,075 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 15:57:52,079 Using selector: SelectSelector
+2020-05-04 15:58:02,974 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 15:58:02,978 Using selector: SelectSelector
+2020-05-04 15:58:15,907 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 15:58:15,910 Using selector: SelectSelector
+2020-05-04 15:58:22,940 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 15:58:22,951 Using selector: SelectSelector
+2020-05-04 15:58:30,211 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 15:58:30,214 Using selector: SelectSelector
+2020-05-04 15:58:39,094 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 15:58:39,098 Using selector: SelectSelector
+2020-05-04 15:58:56,660 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 15:58:56,664 Using selector: SelectSelector
+2020-05-04 15:59:03,842 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 15:59:03,845 Using selector: SelectSelector
+2020-05-04 15:59:13,840 C:\Users\DELL\djangoprojects\firstproject\formdata\urls.py changed, reloading.
+2020-05-04 15:59:13,843 Using selector: SelectSelector
+2020-05-04 15:59:21,186 C:\Users\DELL\djangoprojects\firstproject\formdata\urls.py changed, reloading.
+2020-05-04 15:59:21,189 Using selector: SelectSelector
+2020-05-04 16:03:23,578 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 16:03:23,614 Using selector: SelectSelector
+2020-05-04 16:04:02,273 Forbidden (CSRF token missing or incorrect.): /jsonhome
+2020-05-04 16:05:20,581 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 16:05:20,583 Using selector: SelectSelector
+2020-05-04 16:05:36,503 Forbidden (CSRF token missing or incorrect.): /jsonhome
+2020-05-04 16:06:29,340 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 16:06:29,343 Using selector: SelectSelector
+2020-05-04 16:06:46,491 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 16:06:46,494 Using selector: SelectSelector
+2020-05-04 16:07:05,414 Forbidden (CSRF token missing or incorrect.): /jsonhome
+2020-05-04 16:07:50,370 Not Found: /favicon.ico
+2020-05-04 16:10:22,242 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 16:10:22,261 Using selector: SelectSelector
+2020-05-04 16:10:52,104 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 16:10:52,107 Using selector: SelectSelector
+2020-05-04 16:10:59,059 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 16:10:59,061 Using selector: SelectSelector
+2020-05-04 16:11:06,035 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 16:11:06,038 Using selector: SelectSelector
+2020-05-04 16:12:05,342 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 16:12:05,345 Using selector: SelectSelector
+2020-05-04 16:13:07,747 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 16:13:07,749 Using selector: SelectSelector
+2020-05-04 16:13:19,962 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 16:13:19,965 Using selector: SelectSelector
+2020-05-04 16:13:34,008 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 16:13:34,012 Using selector: SelectSelector
+2020-05-04 16:14:11,878 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 16:14:11,900 Using selector: SelectSelector
+2020-05-04 16:14:20,570 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 16:14:20,575 Using selector: SelectSelector
+2020-05-04 16:16:29,330 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 16:16:29,332 Using selector: SelectSelector
+2020-05-04 16:16:51,429 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 16:16:51,431 Using selector: SelectSelector
+2020-05-04 16:17:02,002 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 16:17:02,013 Using selector: SelectSelector
+2020-05-04 16:17:45,327 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 16:17:45,329 Using selector: SelectSelector
+2020-05-04 16:18:20,009 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 16:18:20,013 Using selector: SelectSelector
+2020-05-04 16:18:54,381 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 16:18:54,385 Using selector: SelectSelector
+2020-05-04 16:19:15,022 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 16:19:15,024 Using selector: SelectSelector
+2020-05-04 16:20:21,900 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 16:20:21,903 Using selector: SelectSelector
+2020-05-04 16:20:32,299 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 16:20:32,302 Using selector: SelectSelector
+2020-05-04 16:20:39,222 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 16:20:39,233 Using selector: SelectSelector
+2020-05-04 16:20:56,253 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 16:20:56,255 Using selector: SelectSelector
+2020-05-04 16:21:06,991 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 16:21:06,994 Using selector: SelectSelector
+2020-05-04 16:26:21,696 Forbidden (CSRF token missing or incorrect.): /jsonhome
+2020-05-04 16:30:58,194 Forbidden (CSRF token missing or incorrect.): /jsonhome
+2020-05-04 16:33:32,942 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 16:33:32,963 Using selector: SelectSelector
+2020-05-04 16:33:45,099 Internal Server Error: /jsonhome
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\utils\datastructures.py", line 76, in __getitem__
+    list_ = super().__getitem__(key)
+KeyError: 'email'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\DELL\djangoprojects\firstproject\formdata\views.py", line 39, in json_home
+    email = request.POST['email']
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\utils\datastructures.py", line 78, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'email'
+2020-05-04 16:34:20,459 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 16:34:20,462 Using selector: SelectSelector
+2020-05-04 16:34:37,814 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 16:34:37,817 Using selector: SelectSelector
+2020-05-04 16:34:53,393 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 16:34:53,396 Using selector: SelectSelector
+2020-05-04 16:35:00,952 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 16:35:00,963 Using selector: SelectSelector
+2020-05-04 16:37:42,699 Forbidden (CSRF token missing or incorrect.): /jsonhome
+2020-05-04 16:38:50,348 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 16:38:50,350 Using selector: SelectSelector
+2020-05-04 16:39:01,457 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 16:39:01,460 Using selector: SelectSelector
+2020-05-04 16:39:21,831 Internal Server Error: /jsonhome
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\utils\datastructures.py", line 76, in __getitem__
+    list_ = super().__getitem__(key)
+KeyError: 'email'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\DELL\djangoprojects\firstproject\formdata\views.py", line 39, in json_home
+    email = request.POST['email']
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\utils\datastructures.py", line 78, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'email'
+2020-05-04 16:39:44,321 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 16:39:44,332 Using selector: SelectSelector
+2020-05-04 16:39:57,896 Internal Server Error: /jsonhome
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\utils\datastructures.py", line 76, in __getitem__
+    list_ = super().__getitem__(key)
+KeyError: 'email'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\DELL\djangoprojects\firstproject\formdata\views.py", line 39, in json_home
+    email = request.GET['email']
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\utils\datastructures.py", line 78, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'email'
+2020-05-04 16:40:55,952 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 16:40:55,955 Using selector: SelectSelector
+2020-05-04 16:41:07,517 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 16:41:07,520 Using selector: SelectSelector
+2020-05-04 16:41:36,779 Internal Server Error: /jsonhome
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\utils\datastructures.py", line 76, in __getitem__
+    list_ = super().__getitem__(key)
+KeyError: 'email'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\DELL\djangoprojects\firstproject\formdata\views.py", line 40, in json_home
+    email = request.GET['email']
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\utils\datastructures.py", line 78, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'email'
+2020-05-04 16:46:22,598 Internal Server Error: /jsonhome
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\DELL\djangoprojects\firstproject\formdata\views.py", line 44, in json_home
+    if len(obj)==1:
+NameError: name 'obj' is not defined
+2020-05-04 16:46:57,624 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 16:46:57,626 Using selector: SelectSelector
+2020-05-04 17:03:01,177 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:03:01,241 Using selector: SelectSelector
+2020-05-04 17:05:24,711 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:05:24,714 Using selector: SelectSelector
+2020-05-04 17:06:14,685 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:06:14,688 Using selector: SelectSelector
+2020-05-04 17:06:21,691 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:06:21,693 Using selector: SelectSelector
+2020-05-04 17:06:43,745 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:06:43,750 Using selector: SelectSelector
+2020-05-04 17:06:50,586 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:06:50,589 Using selector: SelectSelector
+2020-05-04 17:07:23,569 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:07:23,572 Using selector: SelectSelector
+2020-05-04 17:07:30,471 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:07:30,474 Using selector: SelectSelector
+2020-05-04 17:07:50,582 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:07:50,585 Using selector: SelectSelector
+2020-05-04 17:08:13,345 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:08:13,347 Using selector: SelectSelector
+2020-05-04 17:09:11,884 Internal Server Error: /jsonhome
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\DELL\djangoprojects\firstproject\formdata\views.py", line 43, in json_home
+    return JsonResponse(json_response)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\http\response.py", line 555, in __init__
+    'In order to allow non-dict objects to be serialized set the '
+TypeError: In order to allow non-dict objects to be serialized set the safe parameter to False.
+2020-05-04 17:09:50,274 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:09:50,296 Using selector: SelectSelector
+2020-05-04 17:10:02,583 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:10:02,593 Using selector: SelectSelector
+2020-05-04 17:10:12,330 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:10:12,333 Using selector: SelectSelector
+2020-05-04 17:10:43,728 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:10:43,732 Using selector: SelectSelector
+2020-05-04 17:10:50,954 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:10:50,957 Using selector: SelectSelector
+2020-05-04 17:11:09,862 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:11:09,864 Using selector: SelectSelector
+2020-05-04 17:11:17,169 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:11:17,180 Using selector: SelectSelector
+2020-05-04 17:11:26,980 Internal Server Error: /jsonhome
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\DELL\djangoprojects\firstproject\formdata\views.py", line 48, in json_home
+    return JsonResponse(json_response)
+NameError: name 'json_response' is not defined
+2020-05-04 17:11:50,476 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:11:50,486 Using selector: SelectSelector
+2020-05-04 17:12:02,951 Internal Server Error: /jsonhome
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\DELL\djangoprojects\firstproject\formdata\views.py", line 48, in json_home
+    return JsonResponse(log_response)
+NameError: name 'json_response' is not defined
+2020-05-04 17:13:59,902 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:13:59,905 Using selector: SelectSelector
+2020-05-04 17:14:09,539 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:14:09,543 Using selector: SelectSelector
+2020-05-04 17:14:22,362 Internal Server Error: /jsonhome
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\DELL\djangoprojects\firstproject\formdata\views.py", line 48, in json_home
+    return JsonResponse(log_)
+UnboundLocalError: local variable 'log_' referenced before assignment
+2020-05-04 17:15:12,388 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:15:12,390 Using selector: SelectSelector
+2020-05-04 17:15:23,812 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:15:23,815 Using selector: SelectSelector
+2020-05-04 17:15:31,885 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:15:31,902 Using selector: SelectSelector
+2020-05-04 17:18:50,360 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:18:50,363 Using selector: SelectSelector
+2020-05-04 17:19:37,615 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:19:37,620 Using selector: SelectSelector
+2020-05-04 17:19:44,837 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:19:44,840 Using selector: SelectSelector
+2020-05-04 17:20:08,134 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:20:08,138 Using selector: SelectSelector
+2020-05-04 17:20:27,682 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:20:27,685 Using selector: SelectSelector
+2020-05-04 17:20:38,898 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:20:38,901 Using selector: SelectSelector
+2020-05-04 17:20:48,276 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:20:48,279 Using selector: SelectSelector
+2020-05-04 17:20:55,816 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:20:55,820 Using selector: SelectSelector
+2020-05-04 17:21:47,510 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:21:47,513 Using selector: SelectSelector
+2020-05-04 17:24:42,383 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:24:42,393 Using selector: SelectSelector
+2020-05-04 17:25:00,522 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:25:00,532 Using selector: SelectSelector
+2020-05-04 17:25:07,718 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:25:07,729 Using selector: SelectSelector
+2020-05-04 17:25:15,009 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:25:15,014 Using selector: SelectSelector
+2020-05-04 17:25:31,487 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:25:31,605 Using selector: SelectSelector
+2020-05-04 17:26:13,813 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:26:13,816 Using selector: SelectSelector
+2020-05-04 17:27:11,101 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:27:11,104 Using selector: SelectSelector
+2020-05-04 17:27:31,989 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:27:31,992 Using selector: SelectSelector
+2020-05-04 17:27:41,380 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:27:41,383 Using selector: SelectSelector
+2020-05-04 17:27:48,457 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:27:48,468 Using selector: SelectSelector
+2020-05-04 17:27:55,791 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:27:55,801 Using selector: SelectSelector
+2020-05-04 17:29:52,915 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:29:52,918 Using selector: SelectSelector
+2020-05-04 17:30:00,072 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:30:00,082 Using selector: SelectSelector
+2020-05-04 17:30:07,431 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:30:07,441 Using selector: SelectSelector
+2020-05-04 17:32:12,865 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:32:12,869 Using selector: SelectSelector
+2020-05-04 17:32:20,178 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:32:20,188 Using selector: SelectSelector
+2020-05-04 17:32:29,424 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:32:29,427 Using selector: SelectSelector
+2020-05-04 17:32:36,735 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:32:36,746 Using selector: SelectSelector
+2020-05-04 17:32:47,069 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:32:47,072 Using selector: SelectSelector
+2020-05-04 17:32:56,096 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:32:56,100 Using selector: SelectSelector
+2020-05-04 17:33:03,730 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:33:03,745 Using selector: SelectSelector
+2020-05-04 17:33:11,355 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:33:11,375 Using selector: SelectSelector
+2020-05-04 17:33:18,979 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:33:18,982 Using selector: SelectSelector
+2020-05-04 17:33:46,245 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:33:46,256 Using selector: SelectSelector
+2020-05-04 17:34:51,861 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:34:51,865 Using selector: SelectSelector
+2020-05-04 17:34:59,246 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:34:59,249 Using selector: SelectSelector
+2020-05-04 17:35:06,401 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:35:06,411 Using selector: SelectSelector
+2020-05-04 17:35:19,996 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:35:19,999 Using selector: SelectSelector
+2020-05-04 17:35:38,915 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:35:38,918 Using selector: SelectSelector
+2020-05-04 17:36:27,402 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:36:27,405 Using selector: SelectSelector
+2020-05-04 17:36:34,780 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:36:34,791 Using selector: SelectSelector
+2020-05-04 17:36:42,084 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:36:42,087 Using selector: SelectSelector
+2020-05-04 17:37:12,751 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:37:12,755 Using selector: SelectSelector
+2020-05-04 17:37:31,092 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:37:31,098 Using selector: SelectSelector
+2020-05-04 17:37:42,655 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:37:42,659 Using selector: SelectSelector
+2020-05-04 17:37:49,891 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:37:49,894 Using selector: SelectSelector
+2020-05-04 17:38:13,010 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:38:13,013 Using selector: SelectSelector
+2020-05-04 17:44:03,638 Internal Server Error: /jsonbasic_details
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\DELL\djangoprojects\firstproject\formdata\views.py", line 54, in jsonbasic_details
+    dbresponse = db_handler(purposerphone_no,city)
+NameError: name 'purposerphone_no' is not defined
+2020-05-04 17:44:46,636 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:44:46,638 Using selector: SelectSelector
+2020-05-04 17:45:22,847 Internal Server Error: /jsonbasic_details
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\DELL\djangoprojects\firstproject\formdata\views.py", line 54, in jsonbasic_details
+    dbresponse = db_handler(purpose,phone_no,city)
+  File "C:\Users\DELL\djangoprojects\firstproject\formdata\views.py", line 75, in db_handler
+    obj = userdetails.objects.filter(username=account_name).update(phone_number=ph_number,city=city_name)
+NameError: name 'ph_number' is not defined
+2020-05-04 17:46:05,164 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:46:05,166 Using selector: SelectSelector
+2020-05-04 17:46:16,860 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 17:46:16,867 Using selector: SelectSelector
+2020-05-04 18:14:33,929 Using selector: SelectSelector
+2020-05-04 18:31:24,164 Using selector: SelectSelector
+2020-05-04 21:05:07,033 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-04 21:05:07,658 Using selector: SelectSelector
+2020-05-05 09:30:36,771 Not Found: /
+2020-05-05 09:30:37,183 Not Found: /favicon.ico
+2020-05-05 09:37:01,457 Internal Server Error: /jsonhome
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\utils\datastructures.py", line 76, in __getitem__
+    list_ = super().__getitem__(key)
+KeyError: 'purpose'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\DELL\djangoprojects\firstproject\formdata\views.py", line 39, in json_home
+    purpose = request.GET['purpose']
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\utils\datastructures.py", line 78, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'purpose'
+2020-05-05 09:40:15,822 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 09:40:15,845 Using selector: SelectSelector
+2020-05-05 09:45:19,028 Forbidden (CSRF token missing or incorrect.): /jsonhome
+2020-05-05 09:45:27,647 Forbidden (CSRF token missing or incorrect.): /jsonhome
+2020-05-05 09:45:44,127 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 09:45:44,129 Using selector: SelectSelector
+2020-05-05 09:47:03,730 Forbidden (CSRF token missing or incorrect.): /jsonhome
+2020-05-05 09:48:15,182 Forbidden (CSRF token missing or incorrect.): /jsonhome
+2020-05-05 09:48:28,463 Forbidden (CSRF token missing or incorrect.): /jsonhome
+2020-05-05 09:52:49,813 Using selector: SelectSelector
+2020-05-05 09:59:26,933 Internal Server Error: /jsonhome
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    "returned None instead." % (callback.__module__, view_name)
+ValueError: The view formdata.views.json_home didn't return an HttpResponse object. It returned None instead.
+2020-05-05 09:59:56,556 Internal Server Error: /jsonhome
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    "returned None instead." % (callback.__module__, view_name)
+ValueError: The view formdata.views.json_home didn't return an HttpResponse object. It returned None instead.
+2020-05-05 10:02:39,994 Using selector: SelectSelector
+2020-05-05 10:08:10,836 Forbidden (CSRF token missing or incorrect.): /jsonhome
+2020-05-05 10:08:57,184 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 10:08:57,208 Using selector: SelectSelector
+2020-05-05 10:09:32,395 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 10:09:32,399 Using selector: SelectSelector
+2020-05-05 10:09:42,609 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 10:09:42,612 Using selector: SelectSelector
+2020-05-05 10:09:51,166 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 10:09:51,169 Using selector: SelectSelector
+2020-05-05 10:09:57,813 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 10:09:57,823 Using selector: SelectSelector
+2020-05-05 10:13:07,248 Forbidden (CSRF token missing or incorrect.): /jsonhome
+2020-05-05 10:15:23,893 Forbidden (CSRF token missing or incorrect.): /jsonhome
+2020-05-05 10:17:04,392 Forbidden (CSRF token missing or incorrect.): /jsonhome
+2020-05-05 10:28:02,179 Forbidden (CSRF token missing or incorrect.): /jsonhome
+2020-05-05 10:30:37,833 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 10:30:37,836 Using selector: SelectSelector
+2020-05-05 10:30:53,422 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 10:30:53,434 Using selector: SelectSelector
+2020-05-05 10:31:09,173 Internal Server Error: /jsonhome
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\DELL\djangoprojects\firstproject\formdata\views.py", line 39, in json_home
+    log_res = {'status code':100,'message':'login accessed','token':csrf_token}
+NameError: name 'csrf_token' is not defined
+2020-05-05 10:32:01,678 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 10:32:01,680 Using selector: SelectSelector
+2020-05-05 10:32:10,804 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 10:32:10,806 Using selector: SelectSelector
+2020-05-05 10:32:34,679 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 10:32:34,682 Using selector: SelectSelector
+2020-05-05 10:32:43,097 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 10:32:43,100 Using selector: SelectSelector
+2020-05-05 10:32:49,887 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 10:32:49,897 Using selector: SelectSelector
+2020-05-05 10:33:16,700 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 10:33:16,704 Using selector: SelectSelector
+2020-05-05 10:33:22,763 Internal Server Error: /jsonhome
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\DELL\djangoprojects\firstproject\formdata\views.py", line 42, in json_home
+    return JsonResponse(log_res)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\http\response.py", line 561, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+  File "C:\ProgramData\Anaconda3\lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "C:\ProgramData\Anaconda3\lib\json\encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\ProgramData\Anaconda3\lib\json\encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\serializers\json.py", line 104, in default
+    return super().default(o)
+  File "C:\ProgramData\Anaconda3\lib\json\encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type RequestContext is not JSON serializable
+2020-05-05 10:34:45,077 Forbidden (CSRF token missing or incorrect.): /jsonhome
+2020-05-05 10:35:42,408 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 10:35:42,410 Using selector: SelectSelector
+2020-05-05 10:43:46,013 Forbidden (CSRF token missing or incorrect.): /jsonhome
+2020-05-05 10:54:30,434 Not Found: /
+2020-05-05 10:55:30,574 Not Found: /
+2020-05-05 10:55:31,806 Not Found: /
+2020-05-05 10:55:43,929 Using selector: SelectSelector
+2020-05-05 11:00:08,320 Using selector: SelectSelector
+2020-05-05 11:33:07,646 User logged in= Ramesh
+2020-05-05 11:33:24,979 Forbidden (CSRF cookie not set.): /login
+2020-05-05 13:10:01,541 Internal Server Error: /jsonhome
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    "returned None instead." % (callback.__module__, view_name)
+ValueError: The view formdata.views.json_home didn't return an HttpResponse object. It returned None instead.
+2020-05-05 13:10:03,487 Not Found: /favicon.ico
+2020-05-05 13:10:53,019 Internal Server Error: /jsonhome
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\utils\datastructures.py", line 76, in __getitem__
+    list_ = super().__getitem__(key)
+KeyError: 'purpose'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\DELL\djangoprojects\firstproject\formdata\views.py", line 46, in json_home
+    purpose = request.POST['purpose']
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\utils\datastructures.py", line 78, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'purpose'
+2020-05-05 13:12:10,648 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 13:12:10,701 Using selector: SelectSelector
+2020-05-05 13:12:24,957 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 13:12:24,960 Using selector: SelectSelector
+2020-05-05 13:12:32,159 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 13:12:32,170 Using selector: SelectSelector
+2020-05-05 13:12:43,417 Internal Server Error: /jsonhome
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\utils\datastructures.py", line 76, in __getitem__
+    list_ = super().__getitem__(key)
+KeyError: 'purpose'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\DELL\djangoprojects\firstproject\formdata\views.py", line 46, in json_home
+    purpose = request.POST['purpose']
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\utils\datastructures.py", line 78, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'purpose'
+2020-05-05 13:13:02,687 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 13:13:02,689 Using selector: SelectSelector
+2020-05-05 13:14:06,621 Internal Server Error: /jsonhome
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\utils\datastructures.py", line 76, in __getitem__
+    list_ = super().__getitem__(key)
+KeyError: 'email'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\DELL\djangoprojects\firstproject\formdata\views.py", line 47, in json_home
+    email = request.POST['email']
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\utils\datastructures.py", line 78, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'email'
+2020-05-05 13:14:56,985 Internal Server Error: /jsonhome
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\utils\datastructures.py", line 76, in __getitem__
+    list_ = super().__getitem__(key)
+KeyError: 'email'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\DELL\djangoprojects\firstproject\formdata\views.py", line 47, in json_home
+    email = request.POST['email']
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\utils\datastructures.py", line 78, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'email'
+2020-05-05 13:15:44,860 Internal Server Error: /jsonhome
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\utils\datastructures.py", line 76, in __getitem__
+    list_ = super().__getitem__(key)
+KeyError: 'email'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\DELL\djangoprojects\firstproject\formdata\views.py", line 47, in json_home
+    email = request.POST['email']
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\utils\datastructures.py", line 78, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'email'
+2020-05-05 13:40:13,120 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 13:40:13,146 Using selector: SelectSelector
+2020-05-05 13:42:46,114 Not Found: /userdetails
+2020-05-05 13:42:46,329 Not Found: /favicon.ico
+2020-05-05 13:43:50,068 Not Found: /userdetails
+2020-05-05 13:43:52,212 Not Found: /userdetails
+2020-05-05 13:44:40,057 Not Found: /userdetails
+2020-05-05 14:29:51,215 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 14:29:51,235 Using selector: SelectSelector
+2020-05-05 14:32:19,963 Using selector: SelectSelector
+2020-05-05 17:18:54,573 Not Found: /favicon.ico
+2020-05-05 17:28:26,800 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 17:28:26,802 Using selector: SelectSelector
+2020-05-05 17:29:42,919 C:\Users\DELL\djangoprojects\firstproject\formdata\urls.py changed, reloading.
+2020-05-05 17:29:42,922 Using selector: SelectSelector
+2020-05-05 17:29:51,821 C:\Users\DELL\djangoprojects\firstproject\formdata\urls.py changed, reloading.
+2020-05-05 17:29:51,823 Using selector: SelectSelector
+2020-05-05 17:30:01,213 C:\Users\DELL\djangoprojects\firstproject\formdata\urls.py changed, reloading.
+2020-05-05 17:30:01,216 Using selector: SelectSelector
+2020-05-05 17:30:25,302 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 17:30:25,305 Using selector: SelectSelector
+2020-05-05 17:31:18,621 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 17:31:18,624 Using selector: SelectSelector
+2020-05-05 17:48:01,064 C:\Users\DELL\djangoprojects\firstproject\formdata\urls.py changed, reloading.
+2020-05-05 17:48:01,068 Using selector: SelectSelector
+2020-05-05 17:48:33,400 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 17:48:33,402 Using selector: SelectSelector
+2020-05-05 17:50:20,202 Not Found: /test_view/
+2020-05-05 18:02:01,711 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 18:02:01,713 Using selector: SelectSelector
+2020-05-05 18:02:08,866 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 18:02:08,878 Using selector: SelectSelector
+2020-05-05 18:04:12,301 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 18:04:12,304 Using selector: SelectSelector
+2020-05-05 18:04:19,558 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 18:04:19,561 Using selector: SelectSelector
+2020-05-05 18:04:28,933 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 18:04:28,935 Using selector: SelectSelector
+2020-05-05 18:04:36,094 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 18:04:36,122 Using selector: SelectSelector
+2020-05-05 18:05:32,415 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 18:05:32,418 Using selector: SelectSelector
+2020-05-05 18:05:43,867 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 18:05:43,872 Using selector: SelectSelector
+2020-05-05 18:05:51,053 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 18:05:51,057 Using selector: SelectSelector
+2020-05-05 18:07:50,228 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 18:07:50,231 Using selector: SelectSelector
+2020-05-05 18:10:41,140 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 18:10:41,143 Using selector: SelectSelector
+2020-05-05 18:11:07,653 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 18:11:07,656 Using selector: SelectSelector
+2020-05-05 18:11:41,806 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 18:11:41,808 Using selector: SelectSelector
+2020-05-05 18:11:57,280 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 18:11:57,283 Using selector: SelectSelector
+2020-05-05 18:12:04,448 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 18:12:04,451 Using selector: SelectSelector
+2020-05-05 18:12:11,519 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 18:12:11,546 Using selector: SelectSelector
+2020-05-05 18:12:18,685 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 18:12:18,696 Using selector: SelectSelector
+2020-05-05 18:12:25,794 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 18:12:25,803 Using selector: SelectSelector
+2020-05-05 18:13:35,700 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 18:13:35,702 Using selector: SelectSelector
+2020-05-05 18:13:43,197 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 18:13:43,200 Using selector: SelectSelector
+2020-05-05 18:14:44,426 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 18:14:44,429 Using selector: SelectSelector
+2020-05-05 18:14:51,569 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 18:14:51,577 Using selector: SelectSelector
+2020-05-05 18:15:10,276 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 18:15:10,289 Using selector: SelectSelector
+2020-05-05 18:15:34,985 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 18:15:34,987 Using selector: SelectSelector
+2020-05-05 18:16:05,685 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 18:16:05,688 Using selector: SelectSelector
+2020-05-05 18:17:34,983 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 18:17:34,985 Using selector: SelectSelector
+2020-05-05 18:17:54,219 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 18:17:54,222 Using selector: SelectSelector
+2020-05-05 18:18:21,596 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 18:18:21,599 Using selector: SelectSelector
+2020-05-05 18:18:30,071 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 18:18:30,074 Using selector: SelectSelector
+2020-05-05 18:18:37,455 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 18:18:37,465 Using selector: SelectSelector
+2020-05-05 18:19:21,140 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 18:19:21,143 Using selector: SelectSelector
+2020-05-05 18:28:34,273 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 18:28:34,277 Using selector: SelectSelector
+2020-05-05 18:28:42,095 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 18:28:42,097 Using selector: SelectSelector
+2020-05-05 18:28:59,638 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 18:28:59,646 Using selector: SelectSelector
+2020-05-05 18:41:42,176 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 18:41:42,877 Using selector: SelectSelector
+2020-05-05 18:42:50,828 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 18:42:50,835 Using selector: SelectSelector
+2020-05-05 18:43:20,075 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 18:43:20,078 Using selector: SelectSelector
+2020-05-05 18:44:19,938 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 18:44:20,024 Using selector: SelectSelector
+2020-05-05 18:45:35,135 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 18:45:35,138 Using selector: SelectSelector
+2020-05-05 19:02:06,260 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 19:02:06,330 Using selector: SelectSelector
+2020-05-05 19:02:18,234 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 19:02:18,248 Using selector: SelectSelector
+2020-05-05 19:02:27,628 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 19:02:27,632 Using selector: SelectSelector
+2020-05-05 19:02:35,549 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 19:02:35,561 Using selector: SelectSelector
+2020-05-05 19:02:44,747 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 19:02:44,749 Using selector: SelectSelector
+2020-05-05 19:03:06,196 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 19:03:06,207 Using selector: SelectSelector
+2020-05-05 19:03:17,889 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 19:03:17,893 Using selector: SelectSelector
+2020-05-05 19:03:29,149 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 19:03:29,160 Using selector: SelectSelector
+2020-05-05 19:03:58,480 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 19:03:58,484 Using selector: SelectSelector
+2020-05-05 19:04:19,885 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 19:04:19,888 Using selector: SelectSelector
+2020-05-05 19:04:27,554 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 19:04:27,557 Using selector: SelectSelector
+2020-05-05 19:04:37,716 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 19:04:37,719 Using selector: SelectSelector
+2020-05-05 19:04:49,610 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 19:04:49,613 Using selector: SelectSelector
+2020-05-05 19:05:34,991 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 19:05:34,995 Using selector: SelectSelector
+2020-05-05 19:05:48,057 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 19:05:48,061 Using selector: SelectSelector
+2020-05-05 19:06:21,855 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 19:06:21,858 Using selector: SelectSelector
+2020-05-05 19:06:31,448 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 19:06:31,451 Using selector: SelectSelector
+2020-05-05 19:07:07,050 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 19:07:07,053 Using selector: SelectSelector
+2020-05-05 19:07:40,798 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 19:07:40,801 Using selector: SelectSelector
+2020-05-05 19:08:55,076 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 19:08:55,079 Using selector: SelectSelector
+2020-05-05 19:09:13,078 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 19:09:13,081 Using selector: SelectSelector
+2020-05-05 19:09:24,945 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 19:09:24,949 Using selector: SelectSelector
+2020-05-05 19:09:48,406 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 19:09:48,410 Using selector: SelectSelector
+2020-05-05 19:10:00,362 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 19:10:00,367 Using selector: SelectSelector
+2020-05-05 19:10:07,887 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 19:10:07,898 Using selector: SelectSelector
+2020-05-05 19:10:29,348 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 19:10:29,352 Using selector: SelectSelector
+2020-05-05 19:11:21,192 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 19:11:21,196 Using selector: SelectSelector
+2020-05-05 19:11:30,013 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 19:11:30,025 Using selector: SelectSelector
+2020-05-05 19:11:57,165 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 19:11:57,168 Using selector: SelectSelector
+2020-05-05 19:28:23,706 Using selector: SelectSelector
+2020-05-05 20:30:05,867 Using selector: SelectSelector
+2020-05-05 20:47:14,517 Internal Server Error: /test_view
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\utils\datastructures.py", line 76, in __getitem__
+    list_ = super().__getitem__(key)
+KeyError: 'purpose'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\DELL\djangoprojects\firstproject\formdata\views.py", line 71, in test_view
+    purpose = request.GET['purpose']
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\utils\datastructures.py", line 78, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'purpose'
+2020-05-05 20:49:29,464 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 20:49:29,466 Using selector: SelectSelector
+2020-05-05 20:49:37,221 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 20:49:37,223 Using selector: SelectSelector
+2020-05-05 20:49:46,399 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 20:49:46,432 Using selector: SelectSelector
+2020-05-05 20:50:05,541 Internal Server Error: /test_view
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\utils\datastructures.py", line 76, in __getitem__
+    list_ = super().__getitem__(key)
+KeyError: 'purpose'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\DELL\djangoprojects\firstproject\formdata\views.py", line 72, in test_view
+    purpose = request.GET['purpose']
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\utils\datastructures.py", line 78, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'purpose'
+2020-05-05 20:51:21,713 Internal Server Error: /test_view
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\utils\datastructures.py", line 76, in __getitem__
+    list_ = super().__getitem__(key)
+KeyError: 'purpose'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\DELL\djangoprojects\firstproject\formdata\views.py", line 72, in test_view
+    purpose = request.GET['purpose']
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\utils\datastructures.py", line 78, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'purpose'
+2020-05-05 20:53:02,894 Internal Server Error: /test_view
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\utils\datastructures.py", line 76, in __getitem__
+    list_ = super().__getitem__(key)
+KeyError: 'purpose'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\DELL\djangoprojects\firstproject\formdata\views.py", line 72, in test_view
+    purpose = request.GET['purpose']
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\utils\datastructures.py", line 78, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'purpose'
+2020-05-05 20:53:50,734 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 20:53:50,737 Using selector: SelectSelector
+2020-05-05 20:54:08,356 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 20:54:08,361 Using selector: SelectSelector
+2020-05-05 20:54:16,212 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 20:54:16,224 Using selector: SelectSelector
+2020-05-05 20:54:23,768 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 20:54:23,779 Using selector: SelectSelector
+2020-05-05 20:55:38,642 Internal Server Error: /test_view
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+TypeError: test_view() missing 1 required positional argument: 'data'
+2020-05-05 20:59:56,723 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 20:59:56,725 Using selector: SelectSelector
+2020-05-05 21:01:13,851 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 21:01:13,854 Using selector: SelectSelector
+2020-05-05 21:01:28,318 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 21:01:28,320 Using selector: SelectSelector
+2020-05-05 21:01:45,202 C:\Users\DELL\djangoprojects\firstproject\formdata\urls.py changed, reloading.
+2020-05-05 21:01:45,205 Using selector: SelectSelector
+2020-05-05 21:02:46,558 Internal Server Error: /test_view
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\DELL\djangoprojects\firstproject\formdata\views.py", line 42, in test_view
+    purpose = data['purpose']
+NameError: name 'data' is not defined
+2020-05-05 21:03:21,356 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-05 21:03:21,358 Using selector: SelectSelector
+2020-05-05 21:06:43,596 Using selector: SelectSelector
+2020-05-06 09:35:26,257 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 09:35:26,285 Using selector: SelectSelector
+2020-05-06 09:35:38,478 C:\Users\DELL\djangoprojects\firstproject\formdata\urls.py changed, reloading.
+2020-05-06 09:35:38,481 Using selector: SelectSelector
+2020-05-06 09:42:47,215 C:\Users\DELL\djangoprojects\firstproject\formdata\urls.py changed, reloading.
+2020-05-06 09:42:47,218 Using selector: SelectSelector
+2020-05-06 09:43:04,937 C:\Users\DELL\djangoprojects\firstproject\formdata\urls.py changed, reloading.
+2020-05-06 09:43:04,939 Using selector: SelectSelector
+2020-05-06 09:43:24,396 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 09:43:24,398 Using selector: SelectSelector
+2020-05-06 09:54:33,853 Internal Server Error: /test_view
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\utils\datastructures.py", line 76, in __getitem__
+    list_ = super().__getitem__(key)
+KeyError: 'purpose'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\DELL\djangoprojects\firstproject\formdata\views.py", line 43, in test_view
+    purpose = request.GET['purpose']
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\utils\datastructures.py", line 78, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'purpose'
+2020-05-06 09:55:15,067 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 09:55:15,070 Using selector: SelectSelector
+2020-05-06 09:56:01,976 Internal Server Error: /test_view
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\DELL\djangoprojects\firstproject\formdata\views.py", line 43, in test_view
+    purpose = request['email']
+TypeError: 'WSGIRequest' object is not subscriptable
+2020-05-06 09:56:34,497 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 09:56:34,498 Using selector: SelectSelector
+2020-05-06 10:12:49,352 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 10:12:49,356 Using selector: SelectSelector
+2020-05-06 10:12:58,237 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 10:12:58,239 Using selector: SelectSelector
+2020-05-06 10:37:47,946 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 10:37:47,951 Using selector: SelectSelector
+2020-05-06 10:37:56,948 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 10:37:56,951 Using selector: SelectSelector
+2020-05-06 10:38:09,000 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 10:38:09,004 Using selector: SelectSelector
+2020-05-06 10:44:28,471 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 10:44:28,488 Using selector: SelectSelector
+2020-05-06 10:44:36,877 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 10:44:36,882 Using selector: SelectSelector
+2020-05-06 10:44:48,562 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 10:44:48,565 Using selector: SelectSelector
+2020-05-06 10:44:55,724 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 10:44:55,726 Using selector: SelectSelector
+2020-05-06 10:59:17,863 Internal Server Error: /test_view
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\DELL\djangoprojects\firstproject\formdata\views.py", line 65, in test_view
+    return JsonResponse(resp)
+UnboundLocalError: local variable 'resp' referenced before assignment
+2020-05-06 11:01:26,425 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 11:01:26,428 Using selector: SelectSelector
+2020-05-06 11:01:35,726 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 11:01:35,729 Using selector: SelectSelector
+2020-05-06 11:02:02,638 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 11:02:02,641 Using selector: SelectSelector
+2020-05-06 11:02:09,848 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 11:02:09,851 Using selector: SelectSelector
+2020-05-06 11:02:31,975 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 11:02:31,978 Using selector: SelectSelector
+2020-05-06 11:02:42,698 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 11:02:42,700 Using selector: SelectSelector
+2020-05-06 11:02:49,475 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 11:02:49,478 Using selector: SelectSelector
+2020-05-06 11:02:56,587 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 11:02:56,590 Using selector: SelectSelector
+2020-05-06 11:03:18,171 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 11:03:18,174 Using selector: SelectSelector
+2020-05-06 11:03:50,519 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 11:03:50,522 Using selector: SelectSelector
+2020-05-06 11:20:01,780 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 11:20:01,809 Using selector: SelectSelector
+2020-05-06 11:24:57,130 Not Found: /favicon.ico
+2020-05-06 12:11:45,740 Internal Server Error: /test_view
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    "returned None instead." % (callback.__module__, view_name)
+ValueError: The view formdata.views.test_view didn't return an HttpResponse object. It returned None instead.
+2020-05-06 12:13:19,333 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 12:13:19,363 Using selector: SelectSelector
+2020-05-06 12:13:44,792 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 12:13:44,801 Using selector: SelectSelector
+2020-05-06 12:14:04,763 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 12:14:04,766 Using selector: SelectSelector
+2020-05-06 12:15:28,740 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 12:15:28,744 Using selector: SelectSelector
+2020-05-06 12:15:42,762 Internal Server Error: /test_view
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    "returned None instead." % (callback.__module__, view_name)
+ValueError: The view formdata.views.test_view didn't return an HttpResponse object. It returned None instead.
+2020-05-06 12:15:55,225 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 12:15:55,227 Using selector: SelectSelector
+2020-05-06 12:16:31,556 Internal Server Error: /test_view
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\utils\deprecation.py", line 96, in __call__
+    response = self.process_response(request, response)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\middleware\common.py", line 106, in process_response
+    if response.status_code == 404:
+AttributeError: 'dict' object has no attribute 'status_code'
+2020-05-06 12:17:47,337 Internal Server Error: /test_view
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\utils\datastructures.py", line 76, in __getitem__
+    list_ = super().__getitem__(key)
+KeyError: 'purpose'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\DELL\djangoprojects\firstproject\formdata\views.py", line 41, in test_view
+    purpose = request.GET['purpose']
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\utils\datastructures.py", line 78, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'purpose'
+2020-05-06 12:18:03,189 Not Found: /favicon.ico
+2020-05-06 12:18:39,917 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 12:18:39,919 Using selector: SelectSelector
+2020-05-06 12:36:33,965 Internal Server Error: /test_view
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\utils\datastructures.py", line 76, in __getitem__
+    list_ = super().__getitem__(key)
+KeyError: 'purpose'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\DELL\djangoprojects\firstproject\formdata\views.py", line 41, in test_view
+    purpose = request.GET['purpose']
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\utils\datastructures.py", line 78, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'purpose'
+2020-05-06 12:46:26,340 Forbidden (CSRF cookie not set.): /test_view
+2020-05-06 12:47:00,672 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 12:47:00,698 Using selector: SelectSelector
+2020-05-06 12:47:16,492 Forbidden (CSRF cookie not set.): /test_view
+2020-05-06 12:49:15,687 Internal Server Error: /test_view
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\DELL\djangoprojects\firstproject\formdata\views.py", line 65, in test_view
+    return HttpResponse(resp)
+NameError: name 'HttpResponse' is not defined
+2020-05-06 12:49:48,613 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 12:49:48,620 Using selector: SelectSelector
+2020-05-06 13:01:00,772 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 13:01:00,823 Using selector: SelectSelector
+2020-05-06 13:01:20,060 Internal Server Error: /test_view
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    "returned None instead." % (callback.__module__, view_name)
+ValueError: The view formdata.views.test_view didn't return an HttpResponse object. It returned None instead.
+2020-05-06 13:02:01,521 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 13:02:01,545 Using selector: SelectSelector
+2020-05-06 13:02:16,705 Internal Server Error: /test_view
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\utils\deprecation.py", line 96, in __call__
+    response = self.process_response(request, response)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\middleware\common.py", line 106, in process_response
+    if response.status_code == 404:
+AttributeError: 'dict' object has no attribute 'status_code'
+2020-05-06 13:02:44,121 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 13:02:44,124 Using selector: SelectSelector
+2020-05-06 13:08:07,471 Internal Server Error: /test_view
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\utils\datastructures.py", line 76, in __getitem__
+    list_ = super().__getitem__(key)
+KeyError: 'purpose'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\DELL\djangoprojects\firstproject\formdata\views.py", line 41, in test_view
+    purpose = request.GET['purpose']
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\utils\datastructures.py", line 78, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'purpose'
+2020-05-06 13:09:04,815 Internal Server Error: /test_view
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\utils\datastructures.py", line 76, in __getitem__
+    list_ = super().__getitem__(key)
+KeyError: 'purpose'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\DELL\djangoprojects\firstproject\formdata\views.py", line 41, in test_view
+    purpose = request.GET['purpose']
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\utils\datastructures.py", line 78, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'purpose'
+2020-05-06 13:13:44,567 Forbidden (CSRF cookie not set.): /test_view
+2020-05-06 13:14:15,584 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 13:14:15,586 Using selector: SelectSelector
+2020-05-06 13:14:24,029 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 13:14:24,032 Using selector: SelectSelector
+2020-05-06 13:14:36,222 Forbidden (CSRF cookie not set.): /test_view
+2020-05-06 13:15:27,303 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 13:15:27,305 Using selector: SelectSelector
+2020-05-06 13:15:51,154 Internal Server Error: /test_view
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\utils\datastructures.py", line 76, in __getitem__
+    list_ = super().__getitem__(key)
+KeyError: 'purpose'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\DELL\djangoprojects\firstproject\formdata\views.py", line 68, in test_view
+    purpose = request.GET['purpose']
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\utils\datastructures.py", line 78, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'purpose'
+2020-05-06 13:16:09,475 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 13:16:09,477 Using selector: SelectSelector
+2020-05-06 13:16:34,240 Internal Server Error: /test_view
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\utils\datastructures.py", line 76, in __getitem__
+    list_ = super().__getitem__(key)
+KeyError: 'purpose'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\DELL\djangoprojects\firstproject\formdata\views.py", line 69, in test_view
+    purpose = request.GET['purpose']
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\utils\datastructures.py", line 78, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'purpose'
+2020-05-06 13:16:53,786 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 13:16:53,791 Using selector: SelectSelector
+2020-05-06 13:17:10,402 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 13:17:10,405 Using selector: SelectSelector
+2020-05-06 13:17:39,697 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 13:17:40,004 Using selector: SelectSelector
+2020-05-06 13:17:58,016 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 13:17:58,019 Using selector: SelectSelector
+2020-05-06 13:18:37,232 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 13:18:37,235 Using selector: SelectSelector
+2020-05-06 13:18:47,957 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 13:18:47,960 Using selector: SelectSelector
+2020-05-06 13:18:57,372 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 13:18:57,376 Using selector: SelectSelector
+2020-05-06 13:20:24,415 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 13:20:24,418 Using selector: SelectSelector
+2020-05-06 13:20:41,191 Internal Server Error: /test_view
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\utils\deprecation.py", line 96, in __call__
+    response = self.process_response(request, response)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\middleware\common.py", line 106, in process_response
+    if response.status_code == 404:
+AttributeError: 'dict' object has no attribute 'status_code'
+2020-05-06 13:21:19,658 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 13:21:19,662 Using selector: SelectSelector
+2020-05-06 13:21:37,513 Internal Server Error: /test_view
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\utils\deprecation.py", line 96, in __call__
+    response = self.process_response(request, response)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\middleware\common.py", line 106, in process_response
+    if response.status_code == 404:
+AttributeError: 'dict' object has no attribute 'status_code'
+2020-05-06 13:24:29,510 Using selector: SelectSelector
+2020-05-06 13:53:29,616 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 13:53:29,663 Using selector: SelectSelector
+2020-05-06 13:54:04,585 Internal Server Error: /test_view
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\utils\deprecation.py", line 96, in __call__
+    response = self.process_response(request, response)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\django\middleware\common.py", line 106, in process_response
+    if response.status_code == 404:
+AttributeError: 'dict' object has no attribute 'status_code'
+2020-05-06 13:58:36,131 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 13:58:36,133 Using selector: SelectSelector
+2020-05-06 13:59:37,889 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 13:59:37,892 Using selector: SelectSelector
+2020-05-06 14:01:51,468 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 14:01:51,471 Using selector: SelectSelector
+2020-05-06 14:17:39,984 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 14:17:40,037 Using selector: SelectSelector
+2020-05-06 14:18:17,432 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 14:18:17,435 Using selector: SelectSelector
+2020-05-06 14:18:26,187 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 14:18:26,191 Using selector: SelectSelector
+2020-05-06 14:22:56,228 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 14:22:56,231 Using selector: SelectSelector
+2020-05-06 14:23:05,385 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 14:23:05,387 Using selector: SelectSelector
+2020-05-06 14:23:12,665 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 14:23:12,668 Using selector: SelectSelector
+2020-05-06 14:23:23,302 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 14:23:23,305 Using selector: SelectSelector
+2020-05-06 14:25:37,149 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 14:25:37,152 Using selector: SelectSelector
+2020-05-06 14:41:03,991 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 14:41:04,158 Using selector: SelectSelector
+2020-05-06 14:42:37,859 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 14:42:37,862 Using selector: SelectSelector
+2020-05-06 14:42:45,373 C:\Users\DELL\djangoprojects\firstproject\formdata\views.py changed, reloading.
+2020-05-06 14:42:45,386 Using selector: SelectSelector
+2020-05-06 15:36:40,953 Using selector: SelectSelector
+2020-05-06 22:45:54,251 Using selector: SelectSelector
